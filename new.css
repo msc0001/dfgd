@@ -1,0 +1,107 @@
+
+h1{
+	color:navyblue;
+	border:5px dashed skyblue;
+	
+	width:500px;
+	
+	}
+
+	
+	
+body{
+	background-color:lightgrey;
+	
+	
+	}
+
+table{
+	width:90%;
+	height:400px;}
+table,th,td{
+	border=2px solid #cecece;
+	border-collapse:collapse;
+	text-align:center;
+	table-layout:fixed;
+	}
+.first{ font-size:200%;}
+.sherif{ font-family:"Times New Roman";}
+.s-sherif{ font-family:Arial;}
+.mono{ font-family:Handlee;}
+.cursive{ font-family:cursive;}
+.small{ font-size:x-large;}
+.right{ text-align:right;}
+.blink{ text-decoration:blink;}
+.square{ list-style-type:square;}
+.auto{ table-layout:fixed;}
+.me{
+	
+	height:400px;
+	
+	background-image:url("https://www.sololearn.com/Uploads/header.jpg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	}
+.bottom{vertical-align:bottom;}
+.circle{border:5px solid white;
+		border-radius:50%;
+		}
+#name{
+		font-weight:bold;
+		font-size:400%;
+		}
+.section{
+			padding:15px;
+			background-color:#fff;
+			margin-bottom:10px;
+			border-radius:10px;
+			}
+.skills{
+		font-weight:bold;
+		font-size:150%;
+		
+		}
+#qoute{
+		font-weight:bold;
+		color:red;
+		}
+.selected{
+			background-color:#f36f48;
+			font-weight:bold;
+			color:white;
+			}
+.submit{
+		background-color:#3fb6b2;
+		border:1px;
+		border-radius:5px;
+		width:300px;
+		font-weight:bold;
+		font-size:100%;
+		color:white;
+		padding:12px 45px;
+		margin:0;
+		cursor:pointer;
+		}
+li{
+	margin-bottom:15px;
+	font-weight:bold;
+	}
+progress{
+		width:50%;
+		height:20px;
+		color:orange;}
+input ,textarea{
+	margin-bottom:10px;
+	width:400px;
+	height:40px;
+	background-color:#efefef;
+	color:navyblue;
+	padding:15px 10px 10px;
+	font-size:11pt;
+	border:1px solid #cecece;
+	border-radius:5px;
+
+	}
+textarea{height:100px;}
+	
